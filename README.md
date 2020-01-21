@@ -1,5 +1,5 @@
-# ICTP-IoT-2017
-## Course material for "Data Analysis" section
+# UT-YCC workshop 
+## Course material for IoT data processing
 
 Lecture slides are in IoT-sigproc.pdf.
 
@@ -14,17 +14,17 @@ Outliers.ipynb: for simple filtering of noisy data
 
 ARIMAmodel.ipynb: for prediction using control theory.
 
-FBProphetICTP.ipynb: for prediction by "AI" methods.
+FBProphet.ipynb: for forecasting by "AI" methods.
 
 (Both notebooks use the TS_60917.csv datafile, courtesy
-of Rodrigo, as a sample time series)
+of Rodrigo at ICTP, as a sample time series)
 
 
 ### Image classification
 
 ImageClassification.ipynb: for classification by "AI".
 
-(use the image samples in AItest.zip)
+(use the image samples in set5/)
 
 
 
